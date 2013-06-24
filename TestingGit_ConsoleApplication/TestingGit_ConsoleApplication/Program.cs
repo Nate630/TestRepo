@@ -12,6 +12,8 @@ namespace TestingGit_ConsoleApplication
         {
             Console.WriteLine("Hello Git!");
             Console.WriteLine("Hello Again!");
+            Console.WriteLine("Hello Again!");
+
 
             Console.ReadLine();
         }
